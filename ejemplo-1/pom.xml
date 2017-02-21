@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>comenzando-con-maven</artifactId>
+        <groupId>acceso.datos.cip</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>ejemplo-1</artifactId>
+    <description>Primer ejemplo de un proyecto en maven. Se definen solo los campos más importantes y se realiza
+    un empaquetado por defecto</description>
+    <name>primer-ejemplo-maven</name>
+
+    <!-- Este ejemplo no tiene propiedades porque las hereda del proyecto padre y no realiza ninguna accion -->
+    <properties/>
+
+    <!-- Este proyecto no tiene dependencias por el mismo motivo descrito en el tag properties-->
+    <dependencies/>
+
+
+</project>
