@@ -11,6 +11,8 @@
     <modules>
         <module>ejemplo-1</module>
         <module>ejemplo-2</module>
+        <module>ejemplo-3</module>
+        <module>ejemplo-4</module>
     </modules>
 
     <packaging>pom</packaging>
